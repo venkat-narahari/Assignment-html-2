@@ -1,18 +1,31 @@
 body{
 	background-color: #e3e3e3;
 	margin:0 auto;
+	overflow: visible;
 }
 
-header{
-	align-items: center;
-	vertical-align: middle;
-}
-
-.wrap{
+.wrap1{
+	margin: 0 auto;
 	background-color: #FF0000;
-	font-size: 32px;
+	font-size: 24px;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0;
 }
 
+.menu{
+	display: inline;
+	font-size: 20px;
+	float: right;
+}
+
+
+
+.navbar1, .logo{
+	padding:0px 0px 0px 10px;
+	vertical-align: middle;
+	margin: 0 auto;
+}
 
 
 h1{
@@ -20,14 +33,13 @@ h1{
 }
 
 
-a{
+.menu, a{
 	color:#FFFFFF;
 	text-decoration: none;
 }
 
 a:hover{
 	color:#000000;
-	background-color: #FFFFFF;
 }
 
 .hero{
@@ -55,20 +67,14 @@ a:hover{
 
 
 .qualities{
+	padding: 10px 10px 10px 10px;
 	text-align: center;
-	line-height: 8px;
-	font-size: 36px;
-}
-
-p{
-	font-family: 'Alfa Slab One';
-	padding: 10px;
-	text-align: justify;
 }
 
 .foot{
-	background-color: #000000;
+	background-color: #FF0000;
 	color: #FFFFFF;
+	bottom: 0;
 }
 
 .footlist{
@@ -76,10 +82,5 @@ p{
 	display:inline;
 	padding-right: 20px;
 }
-
-#foot{
-	float:right;
-}
-
 
 
