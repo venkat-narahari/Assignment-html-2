@@ -11,9 +11,10 @@ header{
 }
 
 .wrap1{
+	padding: 20px 0px 20px 0px;
 	margin: 0 auto;
 	background-color: #FF0000;
-	font-size: 24px;
+	font-size: 20px;
 }
 
 .menu{
@@ -28,6 +29,10 @@ header{
 	padding:0px 0px 0px 10px;
 	vertical-align: middle;
 	margin: 0 auto;
+}
+
+.logo{
+	font-size: 32px;
 }
 
 
@@ -46,26 +51,47 @@ a:hover{
 }
 
 .hero{
-	color: #FFFFFF;
+	color: #FF0000;
 	font-size: 75px;
 	padding: 0px 20px 0px 20px;
+	background-color: #FFFFFF;
 }
 
 .wrap2{
 	padding-top: 100px;
 	height: 100%;
 	font-family: 'Alfa Slab One', cursive;
-	background-color: #000000;
+	background-color: #FFFFFF;
+	color: #000000;
 }
 
 .a{
-	background-color: #FFFFFF;
+	height: 282px;
+	width: 462px;
+}
+
+.a,.b{
 	margin-bottom: 20px;
+	background-color: #FF0000;
+}
+
+.b{
+    height: 300px;
+    width: 300px;
+	border-radius: 50%;
+	background-color: #FF0000;
 }
 
 
 .wrap3{
-	background-color: #000000;
+	padding-top: 100px;
+	background-color: #FFFFFF;
+	height: 100%;
+}
+
+.wrap4{
+	padding-top: 100px;
+	background-color: #FFFFFF;
 }
 
 
@@ -73,18 +99,29 @@ a:hover{
 .qualities{
 	padding: 10px 10px 10px 10px;
 	text-align: center;
+	vertical-align: middle;
+	color: #FFFFFF;
 }
 
 .foot{
 	background-color: #FF0000;
 	color: #FFFFFF;
 	bottom: 0;
+	padding: 20px 0px 20px 0px;
 }
 
 .footlist{
 	margin: auto;
 	display:inline;
 	padding-right: 20px;
+}
+
+.copyrights{
+	float:right;
+}
+
+.c{
+	vertical-align: middle;
 }
 
 
