@@ -4,11 +4,11 @@ FreshZone is a static webpage for a grocery delivery service. It highlights the 
 
 ## Technologies and Tools
 
-- [HTML5] (https://html.spec.whatwg.org/)
-- [CSS3] (https://www.w3.org/Style/CSS/)
-- [Font Awesome icons] (https://fontawesome.com/)
-- [Alfa Slab One font] (https://fonts.google.com/specimen/Alfa+Slab+One)
-- [960 Grid System] (http://960.gs/)
+- [HTML5](https://html.spec.whatwg.org/)
+- [CSS3](https://www.w3.org/Style/CSS/)
+- [Font Awesome icons](https://fontawesome.com/)
+- [Alfa Slab One font](https://fonts.google.com/specimen/Alfa+Slab+One)
+- [960 Grid System](http://960.gs/)
 
 ## Files and Directory Structure
 
